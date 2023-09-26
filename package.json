@@ -1,0 +1,22 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "this is namastey react by me ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shriya96/namastey-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "shriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shriya96/namastey-react/issues"
+  },
+  "homepage": "https://github.com/shriya96/namastey-react#readme"
+}
